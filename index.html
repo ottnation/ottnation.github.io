@@ -3,9 +3,6 @@ layout: null
 title: OTT Nation
 description: Exploring Our Brave New Connected World
 sitemap:
-    priority: 1.0
-    lastmod: 2017-11-02
-    changefreq: weekly
 ---
 <!DOCTYPE HTML>
 <!--
@@ -50,7 +47,7 @@ sitemap:
 						<ul class="icons">
               <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
               <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
-              <li><a href="https://youtube.com/{{site.youtube}}" class="icon fa-youtube" rel="nofollow"><span class="label">YouTube</span></a></li>
+              <li><a href="https://youtube.com/channel/{{site.youtube}}" class="icon fa-youtube" rel="nofollow"><span class="label">YouTube</span></a></li>
 						</ul>
 					</nav>
 
@@ -58,82 +55,50 @@ sitemap:
 					<div id="main">
 						<!-- Featured Post -->
 						{% if paginator.page == 1 %}
-							<!--<article class="post featured" id="featured">
-								<header class="major">
-									<h2><a href="#">Massively is a versatile Jekyll theme</a></h2>
-									<p>With only a few edits, you can have a stunningly beautiful website <br />
-                    nearly out of the box. Of course... you can always take it further <br />
-                    and make it something even more amazing!</p>
-								</header>
-								<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a>
-                <p>Regardless of your website's function, the homepage is what brings the user in.
-                  If it's anything short of intriguing, captivating, or just plain cool, you're out of luck and you might deter some visitors.</p>
-                <p>Your homepage must clearly describe what your site is about.
-									Having engaging content will in this manner enable you to offer and it will make your customers more inclined to purchase from you. Content is a way to position your organization in the correct place for your clients to discover you.
-								</p>
-								<p>
-									In this manner, content in itself is a standout amongst the best promoting apparatuses in your whole advertising toolbox! Rather than making your content around your promoting technique, it's limitlessly more productive to fabricate your showcasing around your content.
-								 </p>
-							</article>-->
-
 							<article class="post featured">
 						    <header class="major">
-						        {% if paginator.posts[0].date %}
-						        	<span class="date">{{ paginator.posts[0].date | date_to_string }}</span>
+						        {% if site.posts[0].date %}
+						        	<span class="date">{{ site.posts[0].date | date_to_string }}</span>
 						        {% endif %}
-						        <h2><a href="{{ paginator.posts[0].url | absolute_url }}">{{ paginator.posts[0].title }}</h2>
-						        <p>{{ paginator.posts[0].excerpt }}</p>
+						        <h2><a href="{{ site.posts[0].url | absolute_url }}">{{ site.posts[0].title }}</h2>
+						        <p>{{ site.posts[0].excerpt }}</p>
 						    </header>
-						    {% if paginator.posts[0].image %}
-						    <a href="{{ paginator.posts[0].url | absolute_url }}" class="image main">
-						    	<img src="{{ paginator.posts[0].image | absolute_url }}" alt="" />
+						    {% if site.posts[0].image %}
+						    <a href="{{ site.posts[0].url | absolute_url }}" class="image main">
+						    	<img src="{{ site.posts[0].image | absolute_url }}" alt="" />
 						    </a>
 						    {% endif %}
 						    <ul class="actions">
-						       	<li><a href="{{ paginator.posts[0].url | absolute_url }}" class="button big">Read More</a></li>
+						       	<li><a href="{{ site.posts[0].url | absolute_url }}" class="button big">Read More</a></li>
 						    </ul>
 							</article>
-
 						{% endif %}
 
 						<!-- Posts -->
 							<section class="posts" id="posts">
-                <!--{% for post in site.posts limit:4 %}
-  								<article>
-  									<header>
-  										<span class="date">{{ post.date | date_to_string }}</span>
-  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
-  									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-  									<p>{{ post.excerpt }}</p>
-  									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-  									</ul>
-  								</article>
-                {% endfor %}-->
-
                 {% for post in paginator.posts %}
+                	{{ post.index }}
 								  <article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
   										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
   									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-  									<p>{{ post.excerpt }}</p>
+  									<p><em>{{ post.excerpt }}</em></p>
+  									{% if post.image %}
+  										<a href="{{ post.url | absolute_url }}" class="image fit">
+  											<img src="{{ post.image | absolute_url }}" alt="" />
+  										</a>
+  									{% endif %}
+  									
   									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+  										<li><a href="{{ post.url | absolute_url }}" class="button">Read More</a></li>
   									</ul>
   								</article>
 								{% endfor %}
-
 							</section>
 
 						<!-- Footer -->
 							<footer>
-                <!--<ul class="actions">
-                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
-                </ul>-->
-
 
 
 								<div class="pagination">
@@ -141,7 +106,6 @@ sitemap:
 								    <a href="{{ paginator.previous_page_path }}" class="previous">Prev</a>
 								  {% endif %}
 
-								  <!--<span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>-->
 
 								  {% for page in (1..paginator.total_pages) %}
 								    {% if page == paginator.page %}

@@ -2,9 +2,9 @@
 layout: post
 title:  "Zero Rating, Net Neutrality, and Zuck"
 date:   2016-02-01
-excerpt: ""
+excerpt: "Developing countries should \"Just Say No\" to Facebook's Free Basics Program"
 image: "/images/freebasics_vs_nofreebasics.jpeg"
-categories: 
+hidden: false 
 ---
 *<center>Image Source: [IBN Live](http://www.ibnlive.com/news/tech/facebook-goes-out-all-guns-blazing-in-push-for-free-basics-net-neutrality-advocates-cry-foul-1183046.html)</center>*
 

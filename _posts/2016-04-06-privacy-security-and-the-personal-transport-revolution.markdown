@@ -3,7 +3,8 @@ layout: post
 title:  "Privacy, Security, and the Personal Transport Revolution"
 date:   2016-04-06
 excerpt: "Connected cars are here, autonomous vehicles are on their way, and TaaS is on the rise — privacy and security issues need to be considered at the outset."
-categories: 
+image: "/images/autonomous-car.png"
+hidden: true
 ---
 The connected car. It’s one of the hottest topics in tech right now, as it is widely recognized that cars are becoming connected spaces and computing platforms that will fundamentally change how we spend our time in transit.
 
