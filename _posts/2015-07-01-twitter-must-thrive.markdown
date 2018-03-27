@@ -2,11 +2,9 @@
 layout: post
 title:  "Twitter Must Thrive"
 date:   2015-07-01
+excerpt: "Twitter is an important institution that has the admirable goal of giving \"everyone the power to create and share ideas and information instantly, without barriers.\" Here are OTTN's ideas to make sure that it thrives."
 categories: 
 ---
-
-***Twitter is an important institution that has the admirable goal of giving "everyone the power to create and share ideas and information instantly, without barriers." Here are OTTN's ideas to make sure that it thrives.***
-
 *OTT Nation* is a fan of Twitter *the company* because: 
 
 1. its goal to give everyone in the world the power to create and share ideas and information instantaneously is an admirable one; and 
