@@ -3,7 +3,8 @@ layout: post
 title:  "WhatsApp, Carriers!"
 date:   2014-02-27
 excerpt: "OTT Messaging's Tipping Point and Facebook's Push for Partnerships"
-categories:  
+image: "/assets/images/WhatsApp_Logo_7.png" 
+hidden: false
 ---
 A lot has already been written about Facebook's purchase of WhatsApp -- the simple but popular [over the top](http://en.wikipedia.org/wiki/Over-the-top_content) (OTT) messaging app -- from the [seemingly exorbitant purchase price](http://www.bloomberg.com/news/2014-02-24/facebook-19-billion-deal-fuels-search-for-next-whatsapp.html), to the [existential threat](http://www.theverge.com/2014/2/19/5428022/connect-or-die-why-facebook-needed-whatsapp) that messaging apps pose to social networking services like Facebook, to the [privacy implications](http://www.bloomberg.com/news/2014-02-25/facebook-whatsapp-deal-risks-sparking-privacy-probes-across-eu.html) of the purchase.  Nevertheless, it seems fitting that the first post on *OTT Nation* be dedicated to one of the biggest deals of the year related to the OTT phenomenon.  
 
@@ -29,8 +30,9 @@ At this year's [Mobile World Congress](https://www.youtube.com/watch?v=AEh9Xvvg3
 
 So how do you demonstrate the value of these wireless data plans to prospective customers?  Well, people know Facebook.  And they know WhatsApp.  According to Zuckerberg, if you provide Facebook and WhatsApp, they will come.  And then you have a paying data service customer to whom you can also "up-sell" other products and services.  (Zuckerberg probably means both "up-sell" and "cross-sell.")
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/AEh9Xvvg35U" frameborder="0" allowfullscreen></iframe><small>*Zuckerberg Keynote at Mobile World Congress 2014*</small>
-
+<center><div class="video-container" style="width:75%;"><iframe src="//www.youtube.com/embed/AEh9Xvvg35U" frameborder="0" allowfullscreen></iframe></div></center>
+<div><center><small><em>Zuckerberg Keynote at Mobile World Congress 2014</em></small></center></div>
+<br/>
 
 The vision in Zuckerberg's own words:
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "Zero Rating, Net Neutrality, and Zuck"
 date:   2016-02-01
-excerpt: "Developing countries should \"Just Say No\" to Facebook's Free Basics Program"
-image: "/images/freebasics_vs_nofreebasics.jpeg"
+excerpt: "Developing countries should \"Just Say No\" to Facebook's Free Basics program."
+image: "/assets/images/freebasics_vs_nofreebasics.jpeg"
 hidden: false 
 ---
 *<center>Image Source: [IBN Live](http://www.ibnlive.com/news/tech/facebook-goes-out-all-guns-blazing-in-push-for-free-basics-net-neutrality-advocates-cry-foul-1183046.html)</center>*
@@ -42,8 +42,9 @@ Professor Vishal Misra has [written](http://peerunreviewed.blogspot.com/2015/12/
 
 Consequently, Misra proposes his own definition, which appears to take into account at least some pricing schemes with competitive advantage effects.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Internet is a platform where ISPs provide no competitive advantage to specific apps/services, either through pricing or QoS <a href="https://twitter.com/hashtag/NetNeutrality?src=hash">#NetNeutrality</a></p>&mdash; Vishal Misra (@vishalmisra) <a href="https://twitter.com/vishalmisra/status/631285727024672768">August 12, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Internet is a platform where ISPs provide no competitive advantage to specific apps/services, either through pricing or QoS <a href="https://twitter.com/hashtag/NetNeutrality?src=hash">#NetNeutrality</a></p>&mdash; Vishal Misra (@vishalmisra) <a href="https://twitter.com/vishalmisra/status/631285727024672768">August 12, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+<br/>
 
 Professor Misra’s self-worded definition of net neutrality.
 Here is his net neutrality definition, slightly modified for clarity’s sake:
@@ -72,8 +73,10 @@ Well, under the Misra definition of net neutrality, such a “downgraded video�
 
 What has been described above is quite similar to T-Mobile’s [controversial Binge On](http://www.theverge.com/2016/1/5/10708876/eff-tmobile-binge-on-test) program. Binge On is a zero rating program where streaming video content does not count towards a user’s data cap, so long as the service provider’s video stream meets T-Mobile’s [technical requirements](https://www.t-mobile.com/content/dam/tmo/en-g/pdf/BingeOn-Video-Technical-Criteria-November-2015.pdf). Critically, when Binge On is turned on, all streaming video is “[throttled](https://www.eff.org/deeplinks/2016/01/eff-confirms-t-mobiles-bingeon-optimization-just-throttling-applies)” — or “[downgraded](http://www.theverge.com/2016/1/5/10708876/eff-tmobile-binge-on-test)” if you are marketing the program — and participating content providers’ streams are zero-rated. Theoretically, any content provider can participate in the program at no cost.
 
-![T-Mobile Promotional Material for Binge-On](https://s3-us-west-1.amazonaws.com/ottnation.com/images/introducing_binge_on.png)
-*<center><small>T-Mobile Promotional Material for Binge-On</small></center>*
+<div class="image post" >
+    <img src="/assets/images/introducing_binge_on.png" alt="T-Mobile Promotional Material for Binge-On"><br/>
+    <center><small><em>T-Mobile Promotional Material for Binge-On</em></small></center>
+</div>
 
 So does Binge On violate net neutrality?
 
@@ -97,13 +100,15 @@ However, Facebook’s guidelines limit Free Basics to services that do not use V
 
 Facebook [argues](http://blogs.timesofindia.indiatimes.com/toi-edit-page/free-basics-protects-net-neutrality/) that the limited nature of Free Basics is mitigated by data indicating that half the people who use the platform to go online for the first time pay to access the full Internet within 30 days. Indeed, the original vision of the program was always as an “on-ramp” to the Internet. (See Zuckerberg’s [keynote](https://www.youtube.com/watch?v=AEh9Xvvg35U) at Mobile World Congress 2014 below.) Giving free access to “[killer apps](https://en.wikipedia.org/wiki/Killer_application)” like Facebook and Messenger is intended to demonstrate to those on the wrong side of the digital divide why being connected to the Internet is so important.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AEh9Xvvg35U" frameborder="0" allowfullscreen></iframe>
+<center><div class="video-container" style="max-width:75%;"><iframe src="https://www.youtube.com/embed/AEh9Xvvg35U" frameborder="0" allowfullscreen></iframe></div></center>
 *<center><small>Mark Zuckerberg’s MWC 2014 Keynote where he announces his plans for Internet.org</small></center>*
 
 While the on-ramp analogy may hold true, the fact remains that the “basics” stay zero-rated even after a data plan is purchased. And there is evidence indicating that the short periods of time where end users are on-ramped via Facebook-oriented differential pricing plans (see, e.g., [Facebook Zero](https://en.wikipedia.org/wiki/Facebook_Zero)) may result in these users conflating [Facebook with the Internet itself](http://qz.com/333313/milliions-of-facebook-users-have-no-idea-theyre-using-the-internet/time.com/facebook-world-plan/).
 
-![Facebook is the Internet](https://s3-us-west-1.amazonaws.com/ottnation.com/images/fb_is_the_internet.png)
-*<center><small>Source: Quartz</small></center>*
+<div class="image post" >
+    <img src="/assets/images/fb_is_the_internet.png" alt="Facebook is the Internet"><br/>
+    <center><small><em>Source: Quartz</em></small></center>
+</div>
 
 The rise of mobile operating systems has changed the way that consumers use the Internet, with most new Internet users associating the value of data plans with apps (core OS and third party) rather than the open Web. But the fact that Facebook is viewed by many newbies as ***the*** basic social networking application for the mobile Internet is troubling. Indeed, it is the danger of Facebook gaining a ***permanent competitive advantage versus other social networking companies*** that makes Free Basics a much more dangerous proposition than if a similar category-based zero rating program were marketed and administered by, say, a Mozilla or Wikimedia.
 
@@ -127,19 +132,24 @@ A hallmark of Facebook’s social networking services is that they benefit very 
 
 Nobody can blame Facebook for marketing services that have positive network effects. However, Facebook’s zero rating efforts give the company a ***baked-in first mover advantage*** by making its services the *de facto* over-the-top social networking apps for participating users. And that should give one pause because that means that Facebook and Messenger ***could win by default***, not because they are so much better than other social networking services.
 
-![Facebook prominence in Free Basics](https://s3-us-west-1.amazonaws.com/ottnation.com/images/freebasics_screen.png)
-*<center><small>Facebook’s eponymous property is prominently displayed in Free Basics (Source: [TechCrunch](http://techcrunch.com/2016/01/10/reimagining-internet-org/))</small></center>*
+<div class="image post" >
+    <img src="/assets/images/freebasics_screen.png" alt="Facebook prominence in Free Basics"><br/>
+    <center><small><em>Facebook’s eponymous property is prominently displayed in Free Basics (Source: <a href="http://techcrunch.com/2016/01/10/reimagining-internet-org/">TechCrunch</a>)</em></small></center>
+</div>
 
 There is a chance, however slight, that new or existing social networking service providers could effectively compete with Facebook in the markets where Free Basics is being pushed. (Realistically, though, Facebook could easily win on the merits because of the positive network effects and economies of scale that it already enjoys, not to mention its deep pockets and engineering/design talent.) That competition probably ought to occur on a playing field where “free” is the zero-bound for pricing. With Free Basics and [Facebook’s other zero rating efforts](http://qz.com/604712/30-years-ago-nasa-lost-7-astronauts-in-the-challenger-explosion-heres-how-it-moved-forward/), the company’s services become better than free, and the ***resultant competitive advantage*** could become insurmountable for competitors.
 
 ***And that is exactly the type of harm that net neutrality is intended to prevent.***
 
 Strike one for Free Basics.
+<br/><br/>
 
 ### Multi-Sided Platforms and Algorithmic Surfacing
 
-![Multi-Sided Platforms](https://s3-us-west-1.amazonaws.com/ottnation.com/images/msp.png)
-*<center><small>Source: Hagiu and Wright, [Multi-Sided Platforms](http://www.hbs.edu/faculty/Publication%20Files/15-037_cb5afe51-6150-4be9-ace2-39c6a8ace6d4.pdf) (working paper)</small></center>*
+<div class="image post" >
+    <img src="/assets/images/msp.png" alt="Multi-Sided Platforms"><br/>
+    <center><small><em>Source: Hagiu and Wright, <a href="http://www.hbs.edu/faculty/Publication%20Files/15-037_cb5afe51-6150-4be9-ace2-39c6a8ace6d4.pdf">Multi-Sided Platforms</a>)</em></small></center>
+</div>
 
 Another thing to consider is that Facebook’s various services are, or are becoming, [multi-sided platforms](http://sloanreview.mit.edu/article/strategic-decisions-for-multisided-platforms/), facilitating interactions between end users and various commercial entities (advertisers, software developers, news outfits, small businesses, etc.). As Professor Andrei Hagiu, whose research focuses on multi-sided platforms (MSPs), [notes](http://sloanreview.mit.edu/article/strategic-decisions-for-multisided-platforms/):
 

@@ -3,7 +3,8 @@ layout: post
 title:  "Charlie Ergen Takes the Lead in OTT Video"
 date:   2014-03-12
 excerpt: ""
-categories:  
+image: "/assets/images/Dish_Network.svg.png" 
+hidden: false 
 ---
 
 > *I think that the OTT is probably going to bring -- first of all, it's going to happen in many forms and fashions. In fact, OTT is already here for a lot of subscribers today, Netflix, Hulu, Amazon, and it's going to continue to expand because the technology can, in some ways, give you a better customer experience. And this certainly can give a customer who can't afford $100 a month a potential experience. So from a programmer point of view, I think they had to be interested in that to make sure that they're maximizing their revenue. It also is going to bring an unlimited number of competitors into the marketplace because virtually anybody will -- can start up an OTT service. So we have -- so from our perspective, we have to -- as Joe mentioned, we have to be able to give the consumer the best experience, that video experience.*

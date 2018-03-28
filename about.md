@@ -5,7 +5,7 @@ description: About OTTN
 ---
 <h2><center>About</center></h2>
 <br/>
-<span class="image left"><img src="{{ "/images/blog_cover_small.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/assets/images/blog_cover_small.jpg" | absolute_url }}" alt="" /></span>
 [*OTT Nation*](http:/www.ottnation.com) is dedicated to exploring how ubiquitous connectivity, low cost computing power, and exponential growth in data collection is changing the world we live in -- including the way we interact with others, consume and create content,  and shape and perceive the world around us. 
 
 <br/>

@@ -3,7 +3,7 @@ layout: post
 title:  "Privacy, Security, and the Personal Transport Revolution"
 date:   2016-04-06
 excerpt: "Connected cars are here, autonomous vehicles are on their way, and TaaS is on the rise — privacy and security issues need to be considered at the outset."
-image: "/images/autonomous-car.png"
+image: "/assets/images/autonomous-car.png"
 hidden: true
 ---
 The connected car. It’s one of the hottest topics in tech right now, as it is widely recognized that cars are becoming connected spaces and computing platforms that will fundamentally change how we spend our time in transit.
@@ -50,7 +50,7 @@ And while connected cars are often analogized to large mobile devices, they are 
 
 The increased search/surveillance capabilities described above could be exacerbated by the fact that, in a TaaS world, individuals may not have any say over how the cars in which they are riding are configured for access by law enforcement. After all, what reasonable expectations of privacy do individuals have when they are in a connected car, and how does that change when the car is owned versus leased versus part of a TaaS fleet? Is a connected car more like public transport or more like a connected home when it comes to expectations of privacy?
 
-Can and will legislation requiring technical assistance for intercepting communications be extended to mandate the incorporation of surveillance capabilities into manufacturer’s cars? Even if such a mandate were not put into place for all cars, it is not clear that TaaS providers would be able to escape such a mandate for their fleets. The [Apple vs. FBI fight over the San Bernadino iPhone](https://medium.com/@sumitrshah/an-end-run-around-encryption-b40df5e236f0) was likely a preview of the type of battle that might arise over connected cars and surveillance capabilities.
+Can and will legislation requiring technical assistance for intercepting communications be extended to mandate the incorporation of surveillance capabilities into manufacturer’s cars? Even if such a mandate were not put into place for all cars, it is not clear that TaaS providers would be able to escape such a mandate for their fleets. The [Apple vs. FBI fight over the San Bernadino iPhone](/blog/an-end-run-around-encryption/) was likely a preview of the type of battle that might arise over connected cars and surveillance capabilities.
 
 Seizures will also be much easier for law enforcement in a world where it is possible to remotely take control of a car. What might be the combined affect of increased search and seizure capabilities? Might the concepts of “reasonable suspicion” and “probable cause” expand through the use of sensors and data analysis, which capture a much greater scope of human activity that might raise red flags? For example, could TaaS providers be required to install drug detection devices that inform law enforcement and automatically seize vehicles (and the persons inside) when illicit substances are detected? Might such functionality go beyond stopping a car and actually re-route cars to law enforcement checkpoints?
 

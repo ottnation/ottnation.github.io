@@ -3,10 +3,10 @@ layout: post
 title:  "Twitter Must Thrive (bullet-point version)"
 date:   2015-07-13
 excerpt: "A Bullet-Point Summary of OTTN’s Twitter Analysis"
-image: "images/Twitter_Logo_WhiteOnBlue.png" 
+image: "/assets/images/Twitter_Logo_WhiteOnBlue.png" 
 hidden: false
 ---
-*See original analysis [here](https://medium.com/ott-nation/twitter-must-thrive-7dbeefcc0329).*
+*See original analysis [here](/blog/twitter-must-thrive/).*
 
 * **Intro**
     * *Twitter is an important institution*

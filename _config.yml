@@ -1,6 +1,5 @@
 # Site
 title:              OTT Nation
-# bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Exploring Our Brave New Connected World"
 locale:             en_US
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -31,7 +30,7 @@ sass:
   style:            compressed
 
 # Comments
-#disqus_shortname:   default
+
 
 # Social
 analytics-id:       "default"
@@ -41,9 +40,8 @@ twitter:            "ottnation"
 github:             "ottnation"
 youtube:            "UC7GLlnhxU8YXuyXOaa-dl-Q"
 
-# personal
-#location:           Los Angeles, CA
-#phone:              310-318-5555
+# Organizational Info
+#location:           Austin, TX
 email:              admin@ottnation.com
 
 # Gems

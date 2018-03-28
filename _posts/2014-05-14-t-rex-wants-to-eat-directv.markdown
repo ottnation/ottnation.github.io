@@ -3,7 +3,8 @@ layout: post
 title:  "T-Rex Stalks DirecTV"
 date:   2014-05-14
 excerpt: ""
-categories: 
+image: "/assets/images/att-directv.jpg" 
+hidden: false
 ---
 
 AT&T is apparently in [advanced talks to buy DirecTV](http://www.bloomberg.com/news/2014-05-14/telecommunications-future-in-flux-as-at-t-mulls-directv.html) for up to $50 billion.  

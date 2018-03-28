@@ -3,7 +3,7 @@ layout: post
 title:  "An End Run Around Encryption?"
 date:   2016-02-22
 excerpt: "If the FBI want to expand U.S. surveillance law to defeat strong encryption, using the All Writs Act is the wrong way to do it."
-image: "images/fbi_seal.jpeg"
+image: "/assets/images/fbi_seal.jpeg"
 hidden: false
 ---
 The world is talking about the heated and [very public battle](http://arstechnica.com/gadgets/2016/02/tim-cook-says-apple-will-fight-us-govt-over-court-ordered-iphone-backdoor/) between Apple and the FBI over the government’s demand that Apple create special company-[signed](https://en.wikipedia.org/wiki/Code_signing) software that bypasses security measures preventing “[brute force attacking](https://en.wikipedia.org/wiki/Brute-force_attack)” an iPhone.

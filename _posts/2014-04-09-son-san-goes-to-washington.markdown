@@ -3,7 +3,8 @@ layout: post
 title:  "Son-San Goes to Washington"
 date:   2014-04-09
 excerpt: ""
-categories: 
+image: "/assets/images/softbank_sprint_logos.png" 
+hidden: false
 ---
 
 *Disclosure: At the time of publication of this article, the author owned common stock in Sprint Corp (NYSE: S).*
@@ -12,27 +13,39 @@ Masayoshi Son, the visionary and inspirational founder of [Softbank](http://en.w
 
 Son's take on the U.S. wireless market is best summed up by taking a look at some key slides used during his Chamber of Commerce presentation:
 
-![](https://s3-us-west-1.amazonaws.com/ottnation.com/images/Softbank+presentation_2014-03-11_11.jpg)
+<div class="image post" >
+    <img src="/assets/images/Softbank presentation_2014-03-11_11.jpg" alt="">
+</div>
 
 Among countries with LTE networks, the U.S. has one of the slowest average LTE speeds.  
 
-![](https://s3-us-west-1.amazonaws.com/ottnation.com/images/Softbank+presentation_2014-03-11_12.jpg)
+<div class="image post" >
+    <img src="/assets/images/Softbank presentation_2014-03-11_12.jpg" alt="">
+</div>
 
 In fact, LTE speeds are actually getting worse in the U.S. because of underinvestment by the dominant wireless providers (i.e., AT&T and Verizon).
 
-![](https://s3-us-west-1.amazonaws.com/ottnation.com/images/Softbank+presentation_2014-03-11_14.jpg)
+<div class="image post" >
+    <img src="/assets/images/Softbank presentation_2014-03-11_14.jpg" alt="">
+</div>
 
 At the same time, average revenue per user (ARPU) for U.S. wireless providers is among the highest.
 
-![](https://s3-us-west-1.amazonaws.com/ottnation.com/images/Softbank+presentation_2014-03-11_17.jpg)
+<div class="image post" >
+    <img src="/assets/images/Softbank presentation_2014-03-11_17.jpg" alt="">
+</div>
 
 And postpaid wireless ARPU in the U.S. only continues to increase, while the rest of the world is seeing drops in wireless ARPU.
 
-![](https://s3-us-west-1.amazonaws.com/ottnation.com/images/Softbank+presentation_2014-03-11_33.jpg)
+<div class="image post" >
+    <img src="/assets/images/Softbank presentation_2014-03-11_33.jpg" alt="">
+</div>
 
 Son also notes that wireline broadband is very expensive in the U.S. on a per Mbps basis.
 
-![](https://s3-us-west-1.amazonaws.com/ottnation.com/images/Softbank+presentation_2014-03-11_34.jpg)
+<div class="image post" >
+    <img src="/assets/images/Softbank presentation_2014-03-11_34.jpg" alt="">
+</div>
 
 This is because over two-thirds of U.S. households have only two (or less) options to choose from for wireline broadband service.
 
@@ -40,24 +53,33 @@ Son's proposed solution to the problems he sees in the wireless and wireline bro
 
 > *Look, we need a certain scale, but once we have enough, it’s a three-heavyweight fight. &nbsp;I’d like to have a real fight, not a pseudo fight. &nbsp;And if I can have a real fight, I’ll go in for a massive price war. &nbsp;I want to be No. 1, right? &nbsp;So I would go for price competition very aggressively and network competition to create the world’s best network.*
 
-<a href="http://www.bloomberg.com/video/softbank-ceo-masayoshi-son-charlie-rose-03-11-42hVejRiTYagXWH~9MohJQ.html">
-<img src="https://s3-us-west-1.amazonaws.com/ottnation.com/images/Masayoshi_Son_on_Charlie_Rose.jpg"></a>
-*Masayoshi Son on Charlie Rose (Mar. 10, 2014)*
+<div class="image post" >
+    <a href="http://www.bloomberg.com/video/softbank-ceo-masayoshi-son-charlie-rose-03-11-42hVejRiTYagXWH~9MohJQ.html"><img src="/assets/images/Masayoshi_Son_on_Charlie_Rose.jpg" alt=""></a>
+    <br/>
+    <center><small><em>Masayoshi Son on Charlie Rose (Mar. 10, 2014)</em></small></center>
+</div>
 
 Once again, Son lays out his evidence supporting the beneficial effects of a Sprint/T-Mobile merger in his presentation to the Chamber of Commerce:
 
-![](https://s3-us-west-1.amazonaws.com/ottnation.com/images/Softbank+presentation_2014-03-11_27.jpg)
+<div class="image post" >
+    <img src="/assets/images/Softbank presentation_2014-03-11_27.jpg" alt="">
+</div>
 
 In Japan, SoftBank's LTE service is over 3 times faster than the weighted average speed in the U.S.
 
-![](https://s3-us-west-1.amazonaws.com/ottnation.com/images/Softbank+presentation_2014-03-11_28.jpg)
+<div class="image post" >
+    <img src="/assets/images/Softbank presentation_2014-03-11_28.jpg" alt="">
+</div>
 
-Yet wireless ARPU in Japan has decreased dramatically since Softbank was allowed to bring the competition to NTT Docomo and KDDI (au).
+Yet wireless ARPU in Japan has decreased dramatically since Softbank was allowed to bring the competition to NTT Docomo and KDDI.
 
-![](https://s3-us-west-1.amazonaws.com/ottnation.com/images/Softbank+presentation_2014-03-11_36.jpg)
+<div class="image post" >
+    <img src="/assets/images/Softbank presentation_2014-03-11_36.jpg" alt="">
+</div>
 
 In Son's view, SoftBank has a good shot of bringing wireless broadband speeds of up to 200 Mbps in the U.S., thereby creating a new competitor to the wireline broadband providers.  And possibly adding AT&T and Verizon to the mix as well if they are forced to compete by upgrading their wireless speeds.
-***
+
+<hr/>
 
 So I feel I need to disclose once again that, at the time of writing this post, I own shares in Sprint.  And that is because I share in Son's vision for U.S. Internet infrastructure.
 

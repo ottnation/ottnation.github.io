@@ -3,7 +3,8 @@ layout: post
 title:  "A Monumental Opinion on Digital Privacy"
 date:   2014-06-26
 excerpt: "The US Supreme Court just issued an incredibly important decision dealing with the privacy implications of mobile device usage and cloud computing."
-categories: 
+image: "/assets/images/scotus_seal.png" 
+hidden: false
 ---
 For the last couple of weeks, the tech media's coverage of the US Supreme Court seems to have focused primarily on Aereo and its copyright fight against the broadcasters.  Indeed, the general theme has been that a decision in the Aereo appeal could have pretty interesting consequences for the seemingly never ending struggle between content owners, traditional content distributors, and those offering new OTT and cloud computing services.  
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Twitter Must Thrive"
 date:   2015-07-01
 excerpt: "Twitter is an important institution that has the admirable goal of giving \"everyone the power to create and share ideas and information instantly, without barriers.\" Here are OTTN's ideas to make sure that it thrives."
-image: "images/Twitter_Logo_Blue.png" 
+image: "/assets/images/Twitter_Logo_Blue.png" 
 hidden: false
 ---
 *OTT Nation* is a fan of Twitter *the company* because: 

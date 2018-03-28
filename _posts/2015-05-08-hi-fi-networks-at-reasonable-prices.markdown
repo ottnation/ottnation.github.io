@@ -3,10 +3,9 @@ layout: post
 title:  "Hi-Fi Networks at Reasonable Prices"
 date:   2015-05-08
 excerpt: "Google's Project Fi will bring much needed competition to the U.S. wireless broadband market and accelerate the convergence between fixed and mobile broadband service."
-categories: 
+image: "/assets/images/project_fi.png"
+hidden: false
 ---
-![Google Fi logo](https://s3-us-west-1.amazonaws.com/ottnation.com/images/fi_screenshot_sm.jpg)
-
 On April 22, Google unveiled [Project Fi](http://googleblog.blogspot.com/2015/04/project-fi.html), its attempt to change the wireless industry for the better. Essentially, when a Google user signs up for the Project Fi wireless service, that user will get access to a "[network of networks](https://fi.google.com/about/network/)" on which he can use his mobile device (currently, only the Nexus 6 is allowed) and tethered devices.
 
 According to Google, Project Fi is focused on three key areas:
