@@ -3,7 +3,7 @@ title:              OTT Nation
 description:        "Exploring Our Brave New Connected World"
 locale:             en_US
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://ottnation.github.io/" # the base hostname & protocol for your site
+url: "https://ottnation.github.io" # the base hostname & protocol for your site
 
 defaults:
 - scope:
