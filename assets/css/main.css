@@ -2818,12 +2818,6 @@
 				text-align: center;
 			}
 
-			header.major > a > p {
-				margin-top: 0;
-				text-align: center;
-				font-style: italic;
-			}
-
 			header.major > .date {
 				font-size: 1rem;
 				margin: 0 0 4rem 0;
@@ -3621,6 +3615,15 @@
 			}
 
 		}
+
+/* */
+
+	.featured_excerpt {
+		margin-top: 0;
+		text-align: center;
+		font-style: italic;
+	}
+
 
 /* Main */
 

@@ -58,11 +58,13 @@ sitemap:
 						{% if paginator.page == 1 %}
 							<article class="post featured">
 						    <header class="major">
-						        {% if site.posts[0].date %}
-						        	<span class="date">{{ site.posts[0].date | date_to_string }}</span>
-						        {% endif %}
-						        <h2><a href="{{ site.posts[0].url | absolute_url }}">{{ site.posts[0].title }}</h2>
-						        <p>{{ site.posts[0].excerpt }}</p>
+					        {% if site.posts[0].date %}
+					        <span class="date">{{ site.posts[0].date | date_to_string }}</span>
+					        {% endif %}
+					        <h2>
+					        	<a href="{{ site.posts[0].url | absolute_url }}">{{ site.posts[0].title }}
+					        </h2>
+					        <p class="featured_excerpt">{{ site.posts[0].excerpt }}</p>
 						    </header>
 						    {% if site.posts[0].image %}
 						    <a href="{{ site.posts[0].url | absolute_url }}" class="image main">
