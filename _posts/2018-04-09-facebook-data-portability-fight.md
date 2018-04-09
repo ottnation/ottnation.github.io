@@ -2,28 +2,24 @@
 layout: post
 title:  "Facebook and the Upcoming Fight for Data Portability"
 date:   2018-04-09
-excerpt: "Facebook's response to the Cambridge Analytica debacle suggests that the company might take a troubling stance on \"data portability\" that conflicts with the principles of the GDPR and may be intended to stave off similar regulation at home."
+excerpt: "Facebook's response to the Cambridge Analytica debacle suggests that the company will be taking a troubling stance on \"data portability\" -- one that conflicts with the principles of the GDPR and may be intended to stave off similar regulation at home."
 image: "/assets/images/eu_flag_fb_like.png"
 hidden: true
 ---
 
 This is not a post about the [mistakes Facebook made](https://medium.com/tow-center/the-graph-api-key-points-in-the-facebook-and-cambridge-analytica-debacle-b69fe692d747) that caused the Cambridge Analytica debacle. Nor is it a post about [Facebook's overall response](https://www.wired.com/story/facebook-cambridge-analytica-response/) to that PR crisis, which was troubling to say the least. 
 
-No, this post is about a very specific line of argument that has surfaced during Facebook's Cambridge Analytica response and which indicates the position the company will be taking on "data portability" in anticipation of the [inevitable regulation](https://www.cnbc.com/2018/03/22/facebook-coo-sheryl-sandberg-its-not-a-question-of-if-regulation-its-a-question-of-what-type.html) to come in the U.S.
+No, this post is about a very specific line of argument that has surfaced during Facebook's response which indicates the position the company will be taking on "data portability" in anticipation of the [inevitable regulation](https://www.cnbc.com/2018/03/22/facebook-coo-sheryl-sandberg-its-not-a-question-of-if-regulation-its-a-question-of-what-type.html) to come in the U.S.
 
-This line of argument suggests that Facebook will be pushing a definition of "data portability" that not only muddies the concept but also conflicts with the principles of the EU's new [General Data Protection Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) (the "<u>GDPR</u>"), which goes into effect on May 25. This appears to be by design -- Facebook is taking a stance that, if adopted in the U.S., will enable them to avoid regulation that decreases social networking service [lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in), just as more and more end users and startups are focusing on the adoption and creation of [re-decentralized Internet-based services](https://www.youtube.com/watch?v=dRb76Z_ZXns). 
+This line of argument suggests that Facebook will be pushing a definition of "data portability" that not only muddies the concept but also conflicts with the principles of the EU's new [General Data Protection Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) (the "<u>GDPR</u>"), which goes into effect on May 25. If that turns out to be the case, then Facebook is taking a stance that, if adopted in the U.S., may result in increased social networking service [lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in), just as more and more startups and end users are focusing on the creation and adoption of [re-decentralized Internet-based services](https://www.youtube.com/watch?v=dRb76Z_ZXns).
 
-Facebook's version of "data portability" -- and presumably its interpretation of the GDPR -- actually leads to data being "locked down" in services like Facebook, ostensibly for the sake of privacy. *Unfortunately, these are the trade-offs between privacy and openness/interoperability,* goes the line. 
+Facebook's characterization of "data portability" (and presumably its interpretation of that right under the GDPR) actually leads to data being "locked down" in services like Facebook, ostensibly for the sake of privacy. *Unfortunately, these are the trade-offs between privacy and openness/interoperability,* goes the line. 
 
-However, this skewed interpretation of the GDPR and "data portability" does not comport with the intention of that law's drafters.
-
-But nothing could be further from the truth, and this skewed interpretation of the GDPR and "data portability" does not comport with the drafters' intentions. 
-
-So let's analyze what's going on here.
+However, this interpretation of the GDPR and "data portability" does not comport with the intention of that law's drafters.
 
 ### What is this "GDPR" You Speak of?
 
-The GDPR -- which stands for the General Data Protection Regulation -- is a [new regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) that has been passed by the European Union for the protection of European persons' personal data. It is a momentous update to the EU's current privacy regime and purports to apply extra-territorially in order to protect the fundamental rights of EU citizens, which means that U.S. data controllers and processors theoretically must adhere to its strictures when dealing with the personal data of European data subjects. 
+The GDPR -- which stands for the General Data Protection Regulation -- is a [new regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) that has been passed by the European Union for the protection of European persons' personal data. It is a momentous update to the EU's current privacy regime that purports to apply extra-territorially in order to protect the fundamental rights of EU citizens. Consequently, U.S. data controllers and processors theoretically must adhere to its strictures when dealing with the personal data of European data subjects. 
 
 The GDPR addresses obligations on matters such as data subject consent, data anonymiztion and pseudonymization, breach notifications, cross-border data transfers, privacy by design requirements, the appointment of data protection officers by organizations, and more. It also enshrines into law personal data rights such as the "[Right to be Forgotten](https://en.wikipedia.org/wiki/Right_to_be_forgotten)," the rights to access and correct personal data, and the right to data portability.
 
@@ -35,13 +31,13 @@ The GDPR individual right we are focused on in this post is the right to data po
 
 [Article 20 of the GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) lays out the right to data portability:
 
-*1. The data subject shall have the ***right to receive the personal data concerning him or her, which he or she has provided to a controller, in a structured, commonly used and machine-readable format*** and have the ***right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided***, where:*
+_1. The data subject shall have the **right to receive the personal data concerning him or her, which he or she has provided to a controller, in a structured, commonly used and machine-readable format** and have the **right to transmit those data to another controller without hindrance** from the controller to which the personal data have been provided, where:_
 
-*(a) the processing is based on consent pursuant to point (a) of Article 6(1) or point (a) of Article 9(2) or on a contract pursuant to point (b) of Article 6(1); and*
+_(a) the processing is based on consent pursuant to point (a) of Article 6(1) or point (a) of Article 9(2) or on a contract pursuant to point (b) of Article 6(1); and_
 
-*(b) the processing is carried out by automated means.*
+_(b) the processing is carried out by automated means._
 
-*2. In exercising his or her right to data portability pursuant to paragraph 1, the data subject shall have the right to have the personal data transmitted directly from one controller to another, where technically feasible.*
+_2. In exercising his or her right to data portability pursuant to paragraph 1, the data subject shall have the right to have the personal data transmitted directly from one controller to another, where technically feasible._
 
 ([GDPR, Article 20](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN), emphasis added)
 
@@ -53,7 +49,7 @@ The Article 29 Working Party (the "<u>Working Party</u>" or "<u>WP29</u>"), the 
 
 In short, the right to data portability is all about giving individuals control by imposing an obligation on data controllers to provide for the automated export of personal data. 
 
-Importantly, though, there are limitations to the right in that it "shall not adversely affect the rights and freedoms of others." ([GDPR, Article 20(4)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN)). In other words, the scope of personal data that is subject to portability is limited such that it does not negatively affect third parties. As we shall see later, this third party data limitation is a key jumping-off point for the questionable line of argument being pushed by Facebook and some commentators.
+Importantly, though, there are limitations to the right in that it "shall not adversely affect the rights and freedoms of others." ([GDPR, Article 20(4)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN)). In other words, ***the scope of personal data that is subject to portability is limited such that it does not negatively affect third parties.*** As we shall see later, this third party data limitation is a key jumping-off point for the questionable line of argument being pushed by Facebook and some commentators.
 
 Notably, a key ***social benefit*** to establishing the ***individual right of data portability***, at least according to the Working Party, is that lock-in will decrease and more competition will ensue between data controllers. This is likely the reason why Facebook and others have been discussing the data portability concept in the wake of Cambridge Analytica and the increased drumbeat for regulation.
 
@@ -83,9 +79,7 @@ According to the Working Party:
 
 ([WP 242 Annex -- FAQ on data portability](http://ec.europa.eu/information_society/newsroom/image/document/2016-51/wp242_annex_en_40854.pdf), emphasis added)
 
-Interesting. 
-
-But it looks like there is a requirement that this third party data be "provided by" the data subject requesting the export, right? So the real question is: _how do we define third party personal data that is "provided by" the user_?
+Interesting. But it looks like there is still a requirement that this third party data be "provided by" the data subject requesting the export, right? So the real question is: _how do we define third party personal data that is "provided by" the user_?
 
 Obviously, third party personal data *provided directly by the user* would be covered under the data portability requirements, so long as third party rights and freedoms are not adversely affected. For example, a contacts book created by a webmail user, which contains third party information such as names, email addresses, physical addresses, and telephone numbers, would almost certainly be exportable under the GDPR to another webmail service, so long as the new service does not use that contact data for its own purposes (e.g., third party profile creation for ad targeting).
 
@@ -126,13 +120,14 @@ Facebook even incorporated an anti-competitive rationale into their [January 201
 This new language appeared to be put in place after Facebook [cut Twitter and other competing apps off](https://techcrunch.com/2013/01/18/facebook-data-voxer/) from the their Find Friends data. Facebook's [explanation](https://developers.facebook.com/blog/post/2013/01/25/clarifying-our-platform-policies/):
 
 > For the vast majority of developers building social apps and games, keep doing what you’re doing. Our goal is to provide a platform that gives people an easy way to login to your apps, create personalized and social experiences, and easily share what they’re doing in your apps with people on Facebook. This is how our platform has been used by the most popular categories of apps, such as games, music, fitness, news and general lifestyle apps.
+> 
 > For a much smaller number of apps that are using Facebook to either replicate our functionality or bootstrap their growth in a way that creates little value for people on Facebook, such as not providing users an easy way to share back to Facebook, we’ve had policies against this that we are further clarifying today (see I.10).
 
-It is, of course, understandable from a business perspective why Facebook felt it necessary to cut off its competitors from APIs that would allow the replication of its social graph. It made particular sense to [do so with Vine](https://www.digitaltrends.com/opinion/facebook-cuts-off-access-to-vine/), as Vine (owned by Twitter) was seen as a potentially viable competitor to Instagram. 
+It is, of course, understandable from a business perspective why Facebook felt it necessary to cut off its competitors from APIs that would allow the replication of its social graph. It made particular sense to [do so with Twitter-owned Vine](https://www.digitaltrends.com/opinion/facebook-cuts-off-access-to-vine/), as it was seen as a potentially viable competitor to Instagram. 
 
 A product like Instagram is far more duplicable than the Facebook service because it is a purpose-built product for photo, video, and Snapchat-style story sharing. One can simply take a look at how Instagram [has cloned Snapchat](https://techcrunch.com/2017/03/15/facebook-stories-roll-out/) to see how easy it is to duplicate such limited functionality products. But, of course, the social graph is the key element of stickiness for such services. And even today, [there is no easy way to backup or export](https://www.digitaltrends.com/social-media/how-to-download-instagram-photos/) one's Instagram data, *though that ought to change as GDPR goes into effect and Facebook rolls out its new data portability settings*.
 
-And therein lies the GDPR's threat to Facebook. If a critical mass of users were to take advantage of the GDPR's data portability requirements to migrate to competing social networking services, that could sow the seeds for a market where Facebook is less dominant than it is today. For example, what could happen if Snapchat, Twitter, Apple, or much smaller companies released Instagram clones that were much more privacy-aware as soon as GDPR goes into effect? Could they convince migration to occur en masse?
+And therein lies the GDPR's threat to Facebook. If a critical mass of users were to take advantage of the GDPR's data portability requirements to migrate to competing social networking services, that could sow the seeds for a market where Facebook is less dominant than it is today. For example, what might happen if Snapchat, Twitter, Apple, or much smaller companies were to release Instagram clones as soon as GDPR goes into effect? Could they convince migration to occur en masse?
 
 As noted in the previous section, at a minimum, Facebook ought to be required under the GDPR to allow for the easy export of both purely personal data and third party user data such as unique platform identifiers and associated contact info from its various social networking services (which it does not yet do through its current data download functionality). But, perhaps more consequentially, it is possible that under GDPR, additional third party personal data may be required to be exported as well.
 
@@ -140,11 +135,11 @@ As noted in the previous section, at a minimum, Facebook ought to be required un
 
 Again, one of the fundamental limitations on GDPR data portability is that third party personal data cannot be exported in a way that will "adversely affect the rights and freedoms" of those third party data subjects. ([GDPR, Article 20(4)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN)) This poses a vexing problem in the social networking context, where first party and third party personal data is inherently commingled by virtue of the nature of the service.
 
-Let's analogize the social networking service context to the webmail context. The Working Party has stated that, for a webmail service, certain third party data would definitely be exportable, including the email itself, which includes third party personal data in the form of both content and metadata, and the contacts data created by users.  What would be the social networking service equivalents for Facebook? Here are some possibilities:
+Let's analogize social networking services to webmail. The Working Party has stated that, for a webmail service, certain third party data would definitely be exportable, including the email itself, which includes third party personal data in the form of both content and metadata, and the contacts data created by users.  What would be the social networking service equivalents for Facebook? Here are some possibilities:
 
-- Facebook property platform identifiers for users
+- Facebook platform identifiers for users, along with associated contact info
 - Facebook Messenger messages and metadata
-- Facebook Group, Pages, and Event data (platform identifiers and some content)
+- Facebook Group, Pages, and Events data (platform identifiers and some content)
 - Third party reactions and shares for personal posts and group chats
 
 All of the above could conceivably be exported such that third party rights are protected. However, such data would have to be "under the sole control of the requesting user" and "only managed for purely personal or household needs." Moreover, the Working Party has stated, any receiving data controller would not be allowed to "use the transmitted third party data for his own purposes e.g. to propose marketing products and services to those other third party data subjects. For example, this information should not be used to enrich the profile of the third party data subject and rebuild his social environment, without his knowledge and consent." ([Guidelines on the right to data portability](https://www.ec.europa.eu/newsroom/document.cfm?doc_id=44099)) 
@@ -166,12 +161,14 @@ Here's Mark Zuckerberg in an interview with CNN:
 And an interview with Kara Swisher of Recode:
 
 > [Y]ou know, your calendar should have your friend’s birthday. Your address book should have your friend’s picture. In order to do that, ***you basically need to make it so a person can log into an app and not just port their own data over, but also be able to bring some data from their friends as well.*** That was the vision, and a bunch of good stuff got created. 
+> 
 > ...
+> 
 > There’s this ***values tension playing out between the value of data portability***, right? Being able to take your data and some social data ... To be able to create new experiences on the one hand, ***and privacy on the other hand, and just making sure that everything is as locked down as possible.***
+> 
 > You know, frankly, I just got that wrong. I was maybe too idealistic on the side of data portability, that it would create more good experiences. And it created some, but I think what the clear feedback was from our community was that people value privacy a lot more. And ***they would rather have their data locked down and be sure that nothing bad will ever happen to it than be able to easily take it and have social experiences in other places.*** So, over time, we have been just kind of narrowing it down.
 > ...
 > But I do think part of this comes from ***these idealistic values of openness and data portability*** and things that I think the tech community holds really dear, but ***are in some conflict with some of these other values, are in protecting people privately, right?*** And a lot of the most sensitive issues that we faced today are conflicts between our real values, right?
-> 
 
 ([Zuckerberg interview with Recode](https://www.recode.net/2018/3/22/17150814/transcript-interview-facebook-mark-zuckerberg-cambridge-analytica-controversy), Mar. 22, 2018, emphasis added)
 
@@ -194,9 +191,11 @@ The [American Enterprise Institute](https://en.wikipedia.org/wiki/American_Enter
 And yet another reference to Thompson in the tech press: 
 
 > As Ben Thompson notes in his own post about this mess, ***most of the regulatory suggestions being proffered [will lock in Facebook](https://stratechery.com/2018/the-facebook-brand/) as an entrenched incumbent.*** That's because it will (a) create barriers that Facebook can deal with, but startups cannot and (b) focus on "cementing" Facebook's model (with safeguards) rather than letting the next wave of creative destruction take down Facebook.
+> 
 > Note that last bit? A good way to take away Facebook's dominance is to enable others to compete in the space. The best way to do that? Make it easy for people to switch from Facebook to upstart competitors. The best way to do that? Make it easier for Facebook users to export their data... and use it on another service. But as soon as you do that, you're actually right back into the risky zone. Why is Facebook in so much hot water right now? Because it made it too easy to export user data to third party platforms! And, ***any kind of GDPR-type solution is just going to lock down that data, rather than enabling them to help seed competition.***
 > ....
 > Let users control and export their data, and let people build tools that allow them to do so, and to control and transparently understand what others do with their data.
+> 
 > If someone comes up with ***a "regulatory regime"*** that does that, it would be fantastic. But so far, nearly every suggestion I've seen has gone in the other direction. They ***will do things like force Facebook to "lock down" its data even more, making it harder for users to extract it, or for third parties to provide users the tools they need to control their own data.***
 
 ([Mike Masnick, How 'Regulating Facebook' Could Make Everyone's Concerns Worse , Not Better](https://www.techdirt.com/articles/20180320/22195339464/how-regulating-facebook-could-make-everyones-concerns-worse-not-better.shtml), Mar. 21, 2018, emphasis added)
@@ -205,15 +204,13 @@ Unfortunately, this ***wrong-headed notion that GDPR-style data portability is a
 
 Indeed, Facebook appears to be fanning the flames of this argument by: (1) quickly [locking things down](https://newsroom.fb.com/news/2018/04/restricting-data-access/) ***from third party developers*** in a way that would probably be ***more restrictive than the GDPR allows for data portability requests made explicitly by users***; and (2) by [accelerating breaking changes](http://www.businessinsider.com/instagram-barely-gave-developers-notice-about-api-data-sharing-changes-2018-4) to its Instagram API without explanation, causing irritation amongst these third party developers that could eventually be turned against privacy regulation. 
 
-Several days ago, the CTO of Facebook released an [update](https://newsroom.fb.com/news/2018/04/restricting-data-access/) on changes the company is making to its data access policies. Many of these changes have been long overdue, especially in the current paradigm where users grant data access to third party developers with the click of a button and without fully understanding what they are doing. Facebook has, indeed, realized that it needs to better protect its users' information.
+Several days ago, the CTO of Facebook [released an update](https://newsroom.fb.com/news/2018/04/restricting-data-access/) on changes the company is making to its data access policies. Many of these changes have been long overdue, especially within the current paradigm of users granting data access to third party developers with the click of a button and without fully understanding what they are doing. Facebook has, indeed, realized that it needs to better protect its users' information.
 
 However, it is important to keep in mind that many of these API changes cut data off to third party developers in a way that is more restrictive than what would be permissible under the GDPR if the users themselves wanted to download such data. The Events, Groups, and Pages APIs [now all exclude](https://newsroom.fb.com/news/2018/04/restricting-data-access/) certain third party personal data pulls that arguably should be allowable under a user's data download request. For example, if a user created a Facebook Event, that user ought to be able to download the guest list, event wall posts, and attendance information, even though third party app developers no longer have access to that data via the Events API. 
 
 Similarly, with the [deprecation of the Instagram API](https://www.instagram.com/developer/changelog/), third party developers have been immediately cut off from access to data like a user's followers and following lists. But users themselves ought to be able to download this data (including Instagram platform user identifiers) when the GDPR goes into effect.
 
-Thus, commentators should not be conflating new controls on third party developer access to personal data via a simple click of a button with data portability rights that allow users to export such data for purely personal and household activities. Nor should they generally be arguing that openness and interoperability are inherently opposed to privacy and, therefore, GDPR results in protecting incumbents. ***GDPR's data portability right is inherently about fostering openness, interoperability, and competition, while also preserving the privacy rights of third party data subjects.***
-
-What is troubling about Facebook's rhetoric is that they seem to be pushing a definition of "data portability" that is at odds with the GDPR and is intended to muddy the waters in the face of public opinion that is increasingly turning towards the idea of new privacy legislation that could potentially borrow from Europe. 
+Thus, commentators should *not* be conflating new controls on third party developer access to personal data with data portability rights that allow users to export such data for purely personal and household activities. Nor should they generally be arguing that openness and interoperability are inherently opposed to privacy and, therefore, GDPR results in protecting incumbents. ***GDPR's data portability right is inherently about fostering openness, interoperability, and competition, while also preserving the privacy rights of third party data subjects.***
 
 Mark Zuckerberg recently [stated](https://techcrunch.com/2018/04/04/zuckerberg-gdpr/) -- in response to a [news story](https://www.reuters.com/article/us-facebook-ceo-privacy-exclusive/exclusive-facebook-ceo-stops-short-of-extending-european-privacy-globally-idUSKCN1HA2M1) where he reportedly "demurred when asked what parts of the [GDPR] he would not extend worldwide" -- that Facebook is "going to make all the same controls and settings available everywhere, not just in Europe," with the caveat that "[i]s it going to be exactly the same format? Probably not. We’ll need to figure out what makes sense in different markets with different laws in different places."
 
