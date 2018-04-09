@@ -48,6 +48,7 @@ sitemap:
               <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
               <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
               <li><a href="https://youtube.com/channel/{{site.youtube}}" class="icon fa-youtube" rel="nofollow"><span class="label">YouTube</span></a></li>
+              <li><a href="mailto:{{site.email}}" class="icon fa-envelope" rel="nofollow"><span class="label">Email</span></a></li>
 						</ul>
 					</nav>
 
@@ -100,7 +101,6 @@ sitemap:
 						<!-- Footer -->
 							<footer>
 
-
 								<div class="pagination">
 								  {% if paginator.previous_page %}
 								    <a href="{{ paginator.previous_page_path }}" class="previous">Prev</a>
@@ -111,13 +111,11 @@ sitemap:
 								    {% if page == paginator.page %}
 								      <a href="#posts" class="page active">{{ page }}</a>
 								    {% elsif page == 1 %}
-								      <a href="{{ '' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+								      <a href="/">{{ page }}{{site.baseurl}}</a>
 								    {% else %}
 								      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
 								    {% endif %}
 								  {% endfor %}
-
-
 
 
 								  {% if paginator.next_page %}
@@ -127,7 +125,6 @@ sitemap:
 								  {% endif %}
 
 								</div>
-
 
 							</footer>
 
