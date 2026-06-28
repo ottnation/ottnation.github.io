@@ -1,0 +1,49 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --background: #fdfbf7;
+  --foreground: #1a1a1a;
+  --muted: #6b6b6b;
+  --border: #e6e2d8;
+  --accent: #a13d2b;
+}
+
+.dark {
+  --background: #14130f;
+  --foreground: #ece8de;
+  --muted: #9a958a;
+  --border: #2a2822;
+  --accent: #e07a5f;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --color-accent: var(--accent);
+  --font-serif: var(--font-source-serif);
+  --font-sans: var(--font-inter);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), system-ui, sans-serif;
+}
+
+.prose-ottn {
+  --tw-prose-body: var(--foreground);
+  --tw-prose-headings: var(--foreground);
+  --tw-prose-links: var(--accent);
+  --tw-prose-bold: var(--foreground);
+  --tw-prose-quotes: var(--foreground);
+  --tw-prose-quote-borders: var(--border);
+  --tw-prose-hr: var(--border);
+  --tw-prose-bullets: var(--muted);
+  --tw-prose-counters: var(--muted);
+  --tw-prose-code: var(--foreground);
+}
