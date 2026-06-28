@@ -8,7 +8,7 @@ const social = [
 export default function SiteFooter() {
   return (
     <footer className="border-t border-border mt-24">
-      <div className="max-w-3xl mx-auto px-6 py-10 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-muted">
+      <div className="max-w-2xl mx-auto px-6 py-10 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-muted">
         <p>&copy; {new Date().getFullYear()} OTT Nation</p>
         <nav className="flex items-center gap-5">
           {social.map((s) => (

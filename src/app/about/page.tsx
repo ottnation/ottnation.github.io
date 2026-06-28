@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 
 export default function AboutPage() {
   return (
-    <div className="max-w-3xl mx-auto px-6 py-16">
+    <div className="max-w-2xl mx-auto px-6 py-12">
       <h1 className="font-serif text-4xl tracking-tight mb-10">About</h1>
 
       <div className="relative w-full sm:w-64 aspect-square float-none sm:float-left sm:mr-8 mb-6 overflow-hidden rounded-md bg-border">
@@ -34,13 +34,14 @@ export default function AboutPage() {
           Why &ldquo;OTT Nation&rdquo;?
         </h2>
         <p className="text-muted leading-relaxed">
-          The &ldquo;OTT&rdquo; in <em>OTT Nation</em> refers to the
-          &ldquo;over the top&rdquo; delivery of data and content via the
-          Internet (be it audiovisual content, sensor data, or personal
-          communications), free from the control or interference of the
-          institutions that provide the communications infrastructure. We
-          like to think of the &ldquo;Nation&rdquo; in <em>OTT Nation</em> as
-          referring to a global audience, since we believe that the vast
+          The &ldquo;OTT&rdquo; in <em>OTT Nation</em>{" "}
+          refers to the &ldquo;over the top&rdquo; delivery of data and
+          content via the Internet (be it audiovisual content, sensor data,
+          or personal communications), free from the control or interference
+          of the institutions that provide the communications infrastructure.
+          We like to think of the &ldquo;Nation&rdquo; in{" "}
+          <em>OTT Nation</em>{" "}
+          as referring to a global audience, since we believe that the vast
           majority of people in the world will be &ldquo;online&rdquo; in the
           not-so-distant future.
         </p>
